@@ -1,1 +1,1 @@
-# Puppy-and-Kitten
+# lab-building-house-for-puppy-boilerplate
